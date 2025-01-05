@@ -70,4 +70,4 @@ else:
 
 # Footer section
 st.write("---")
-st.write("### :heart: Made with Streamlit | :rocket: Jal Desai")
+st.write("### :heart: :rocket:  | Made by Jal Desai")
