@@ -4,4 +4,3 @@ streamlit
 numba
 numpy
 onnxruntime 
-.bg 
